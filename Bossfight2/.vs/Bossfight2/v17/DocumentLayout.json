@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trine\\Desktop\\Get Academy - Start it\\Emne 3\\Bossfight2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{767D16CA-1E6E-4CC4-8037-0BF705D9428B}|Bossfight2.csproj|c:\\users\\trine\\desktop\\get academy - start it\\emne 3\\bossfight2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767D16CA-1E6E-4CC4-8037-0BF705D9428B}|Bossfight2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767D16CA-1E6E-4CC4-8037-0BF705D9428B}|Bossfight2.csproj|c:\\users\\trine\\desktop\\get academy - start it\\emne 3\\bossfight2\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767D16CA-1E6E-4CC4-8037-0BF705D9428B}|Bossfight2.csproj|solutionrelative:boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767D16CA-1E6E-4CC4-8037-0BF705D9428B}|Bossfight2.csproj|c:\\users\\trine\\desktop\\get academy - start it\\emne 3\\bossfight2\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767D16CA-1E6E-4CC4-8037-0BF705D9428B}|Bossfight2.csproj|solutionrelative:hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\trine\\Desktop\\Get Academy - Start it\\Emne 3\\Bossfight2\\Hero.cs",
+              "RelativeDocumentMoniker": "Hero.cs",
+              "ToolTip": "C:\\Users\\trine\\Desktop\\Get Academy - Start it\\Emne 3\\Bossfight2\\Hero.cs",
+              "RelativeToolTip": "Hero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:30:55.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\Users\\trine\\Desktop\\Get Academy - Start it\\Emne 3\\Bossfight2\\Boss.cs",
+              "RelativeDocumentMoniker": "Boss.cs",
+              "ToolTip": "C:\\Users\\trine\\Desktop\\Get Academy - Start it\\Emne 3\\Bossfight2\\Boss.cs",
+              "RelativeToolTip": "Boss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:02:26.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trine\\Desktop\\Get Academy - Start it\\Emne 3\\Bossfight2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\trine\\Desktop\\Get Academy - Start it\\Emne 3\\Bossfight2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:01:49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trine\\Desktop\\Get Academy - Start it\\Emne 3\\BroCodeC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35BEC822-01EE-4FE4-AC13-186D5F9A1A1D}|BroCodeC#.csproj|c:\\users\\trine\\desktop\\get academy - start it\\emne 3\\brocodec#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BEC822-01EE-4FE4-AC13-186D5F9A1A1D}|BroCodeC#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trine\\Desktop\\Get Academy - Start it\\Emne 3\\BroCodeC#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\trine\\Desktop\\Get Academy - Start it\\Emne 3\\BroCodeC#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:28:55.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

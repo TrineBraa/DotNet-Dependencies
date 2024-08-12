@@ -1,0 +1,14 @@
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\bin\Debug\net8.0\BroCodeC#.exe
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\bin\Debug\net8.0\BroCodeC#.deps.json
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\bin\Debug\net8.0\BroCodeC#.runtimeconfig.json
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\bin\Debug\net8.0\BroCodeC#.dll
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\bin\Debug\net8.0\BroCodeC#.pdb
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\obj\Debug\net8.0\BroCodeC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\obj\Debug\net8.0\BroCodeC#.AssemblyInfoInputs.cache
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\obj\Debug\net8.0\BroCodeC#.AssemblyInfo.cs
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\obj\Debug\net8.0\BroCodeC#.csproj.CoreCompileInputs.cache
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\obj\Debug\net8.0\BroCodeC#.dll
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\obj\Debug\net8.0\refint\BroCodeC#.dll
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\obj\Debug\net8.0\BroCodeC#.pdb
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\obj\Debug\net8.0\BroCodeC#.genruntimeconfig.cache
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\BroCodeC#\obj\Debug\net8.0\ref\BroCodeC#.dll

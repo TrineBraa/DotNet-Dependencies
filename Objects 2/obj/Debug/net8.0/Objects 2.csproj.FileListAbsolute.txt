@@ -1,0 +1,14 @@
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\bin\Debug\net8.0\Objects 2.exe
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\bin\Debug\net8.0\Objects 2.deps.json
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\bin\Debug\net8.0\Objects 2.runtimeconfig.json
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\bin\Debug\net8.0\Objects 2.dll
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\bin\Debug\net8.0\Objects 2.pdb
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\obj\Debug\net8.0\Objects 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\obj\Debug\net8.0\Objects 2.AssemblyInfoInputs.cache
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\obj\Debug\net8.0\Objects 2.AssemblyInfo.cs
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\obj\Debug\net8.0\Objects 2.csproj.CoreCompileInputs.cache
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\obj\Debug\net8.0\Objects 2.dll
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\obj\Debug\net8.0\refint\Objects 2.dll
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\obj\Debug\net8.0\Objects 2.pdb
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\obj\Debug\net8.0\Objects 2.genruntimeconfig.cache
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Objects 2\obj\Debug\net8.0\ref\Objects 2.dll

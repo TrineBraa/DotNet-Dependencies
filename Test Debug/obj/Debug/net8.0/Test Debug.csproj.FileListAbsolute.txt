@@ -1,0 +1,14 @@
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\bin\Debug\net8.0\Test Debug.exe
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\bin\Debug\net8.0\Test Debug.deps.json
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\bin\Debug\net8.0\Test Debug.runtimeconfig.json
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\bin\Debug\net8.0\Test Debug.dll
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\bin\Debug\net8.0\Test Debug.pdb
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\obj\Debug\net8.0\Test Debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\obj\Debug\net8.0\Test Debug.AssemblyInfoInputs.cache
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\obj\Debug\net8.0\Test Debug.AssemblyInfo.cs
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\obj\Debug\net8.0\Test Debug.csproj.CoreCompileInputs.cache
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\obj\Debug\net8.0\Test Debug.dll
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\obj\Debug\net8.0\refint\Test Debug.dll
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\obj\Debug\net8.0\Test Debug.pdb
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\obj\Debug\net8.0\Test Debug.genruntimeconfig.cache
+C:\Users\trine\Desktop\Get Academy - Start it\Emne 3\Test Debug\obj\Debug\net8.0\ref\Test Debug.dll
